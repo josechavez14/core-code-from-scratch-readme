@@ -1,4 +1,4 @@
-# Pizza Hawaiana
+# Pizza 
 
 Solution 
 1. Warm water in a large bowl of a heavy duty stand mixer
